@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+p#texto{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.navbar {
+    background-color: #87CEEB;
+}
+
+.quem-somos{
+    background-color: #483D8B;
+    color: #F0F8FF;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #6959CD;
+    color: #F0F8FF;
+}
+
+#logo{
+    width: 100%;
+}
+
+.servicos{
+    background-color: #836FFF;
+    color: #F0F8FF;
+}
+
+.bg-footer{
+    background-color: #836FFF;
+    color: #F0F8FF;
+    font-size: 12px;
+}
+
